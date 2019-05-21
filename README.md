@@ -6,3 +6,6 @@ Esto es un pequeño repo para probar git.
 
 Primero vamos a usar git en local
 
+## Uso de git en github
+
+Y despues vamos a subirlo a GitHub
